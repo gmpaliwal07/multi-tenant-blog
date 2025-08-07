@@ -96,3 +96,6 @@ pids
 # temporary files
 tmp/
 temp/
+
+
+docker-compose.yaml

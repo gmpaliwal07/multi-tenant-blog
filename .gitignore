@@ -57,6 +57,9 @@ drizzle/migrations/
 
 # docker
 .docker/
+docker-compose.yaml
+docker-compose.yml
+docker-compose.override.yml
 
 # IDEs and editors
 .vscode/
@@ -96,6 +99,3 @@ pids
 # temporary files
 tmp/
 temp/
-
-
-docker-compose.yaml
